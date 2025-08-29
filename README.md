@@ -22,5 +22,6 @@ Ce projet a été réalisé dans un but d’apprentissage afin de se familiarise
 
   ## 📸 Aperçu  
 ---
-![Uploading ff.gif…]()
+![ff](https://github.com/user-attachments/assets/c0518364-d6a5-4a39-b008-6e48ca93bcec)
+
 
