@@ -18,4 +18,9 @@ L’utilisateur voit une **question** et peut **appuyer dessus** pour révéler 
 Ce projet a été réalisé dans un but d’apprentissage afin de se familiariser avec :  
 - La gestion des événements utilisateurs (clics)  
 - Les bases de l’affichage dynamique dans Android  
-- Le développement mobile avec Kotlin  
+- Le développement mobile avec Kotlin
+
+  ## 📸 Aperçu  
+---
+![Uploading ff.gif…]()
+
