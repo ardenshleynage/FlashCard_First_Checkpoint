@@ -5,6 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".MainActivity">
 
     <TextView
@@ -12,6 +13,9 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
+        android:background="@color/Teal_Blue"
+        android:textColor="@color/white"
+        android:padding="16dp"
         android:text="Who is the 44th President of the United States?"
         android:textSize="40sp" />
 
@@ -21,6 +25,8 @@
         android:layout_height="200dp"
         android:visibility="invisible"
         android:gravity="center"
+        android:padding="16dp"
+        android:background="@color/Yellow"
         android:text="Barack Obama"
         android:textSize="40sp" />
 </RelativeLayout>
